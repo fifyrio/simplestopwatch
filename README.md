@@ -1,16 +1,6 @@
 # simplestopwatch
 
-A new Flutter project.
+Stopwatch & Timer - beautifully minimalistic design.
 
-## Getting Started
+https://github.com/fifyrio/simplestopwatch/assets/8080188/fe78b9ea-1a57-49fe-ac3a-b97b4dc2c936
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
